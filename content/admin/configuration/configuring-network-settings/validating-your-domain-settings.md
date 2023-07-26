@@ -1,4 +1,4 @@
----
+---chasenyou
 title: Validating your domain settings
 intro: 'Ensure that your domain settings are properly configured before booting up {% data variables.location.product_location %} for the first time.'
 redirect_from:
